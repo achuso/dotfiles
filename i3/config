@@ -227,3 +227,6 @@ bindsym $mod+e exec thunar
 
 # Polybar script
 exec_always --no-startup-id ~/.config/polybar/polybar.sh &
+
+# Redshift
+exec --no-startup-id redshift
